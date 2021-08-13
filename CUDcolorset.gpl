@@ -1,0 +1,25 @@
+GIMP Palette
+Name: CUD color set RGB
+#Achromatic
+255 255 255 White
+200 200 203 Light gray
+132 145 158 Gray
+0 0 0 Black
+#Accent color
+255 75 0 Red
+255 241 0 Yellow
+3 175 122 Green
+0 90 255 Blue
+77 196 255 Skyblue
+255 128 130 Pink
+246 170 0 Orange
+153 0 153 Purple
+128 64 0 Brown
+#Base color
+255 202 191 Light pink
+255 255 128 Cream
+216 242 85 Light yellow green
+191 228 255 Light blue
+255 202 128 beige
+119 217 168 Light green
+201 172 230 Light purple
