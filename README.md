@@ -1,4 +1,5 @@
-# CUDcolorset <img src="https://img.shields.io/badge/-GIMP-5C5543.svg?style=flat&logo=GIMP"> <img src="https://img.shields.io/badge/-Inkscape-000.svg?style=flat&logo=Inkscape">
+# CUDcolorset
+<img src="https://img.shields.io/badge/-GIMP-5C5543.svg?style=flat&logo=GIMP"> <img src="https://img.shields.io/badge/-Inkscape-000.svg?style=flat&logo=Inkscape"> ![GitHub](https://img.shields.io/github/license/atsuyaw/CUDcolorset)
 
 GIMP color palette for color universal design
 
