@@ -1,6 +1,5 @@
 # Color Palette Recommended in the CUD Guideline
 
-![MIT license](https://img.shields.io/github/license/atsuyaw/CUDcolorset)
 ![macOS](https://img.shields.io/badge/-mac-000.svg?style=flat&logo=Apple)
 ![Adobe](https://img.shields.io/badge/Adobe-ED2224.svg?style=flat&logo=Adobe)
 ![GIMP](https://img.shields.io/badge/-GIMP-5C5543.svg?style=flat&logo=GIMP)
