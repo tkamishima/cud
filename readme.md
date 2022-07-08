@@ -15,3 +15,11 @@ CUD4.ase
 
 A color swatch for the Adobe applications.
 You can use this swatch by importing from the swatch pane of the Adobe applications.
+
+cud4.py
+-------
+
+A palette can be used in Python scripts.
+`cud4.named_colors` is the dictionary of the CUD4 color sets,
+and `cud4.plot` is a selected colors useful for plotting.
+
