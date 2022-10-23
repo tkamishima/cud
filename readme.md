@@ -15,6 +15,7 @@ CUD4.ase
 
 A color swatch for the Adobe applications.
 You can use this swatch by importing from the swatch pane of the Adobe applications.
+Note that [the above original site](https://jfly.uni-koeln.de/colorset/) distributes swatch files of the version 3 palette for [RGB](https://jfly.uni-koeln.de/colorset/CUD_palette_RGB_ver3.ase) and [CMYK](https://jfly.uni-koeln.de/colorset/CUD_palette_CMYK_ver3.ase) color spaces.
 
 cud4.py
 -------
